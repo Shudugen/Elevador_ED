@@ -1,0 +1,40 @@
+No tempo 2 e no andar 0 entrou o usuario que requisitou o elevador em 0 zepslon(s) com destino ao andar 1
+o usuario esperou: 2 zepslons
+No tempo 3 e no andar 1 saiu o usuario que requisitou o elevador em 0 zepslon(s) com destino ao andar 1
+o usuario ficou 1 zepslons dentro do elevador
+No tempo 3 e no andar 1 entrou o usuario que requisitou o elevador em 2 zepslon(s) com destino ao andar 4
+o usuario esperou: 1 zepslons
+No tempo 6 e no andar 4 saiu o usuario que requisitou o elevador em 2 zepslon(s) com destino ao andar 4
+o usuario ficou 3 zepslons dentro do elevador
+No tempo 6 e no andar 4 entrou o usuario que requisitou o elevador em 3 zepslon(s) com destino ao andar 3
+o usuario esperou: 3 zepslons
+No tempo 7 e no andar 3 saiu o usuario que requisitou o elevador em 3 zepslon(s) com destino ao andar 3
+o usuario ficou 1 zepslons dentro do elevador
+No tempo 8 e no andar 4 entrou o usuario que requisitou o elevador em 7 zepslon(s) com destino ao andar 1
+o usuario esperou: 1 zepslons
+No tempo 9 e no andar 3 entrou o usuario que requisitou o elevador em 7 zepslon(s) com destino ao andar 2
+o usuario esperou: 2 zepslons
+No tempo 11 e no andar 1 saiu o usuario que requisitou o elevador em 7 zepslon(s) com destino ao andar 1
+o usuario ficou 3 zepslons dentro do elevador
+No tempo 12 e no andar 2 saiu o usuario que requisitou o elevador em 7 zepslon(s) com destino ao andar 2
+o usuario ficou 3 zepslons dentro do elevador
+No tempo 15 e no andar 2 entrou o usuario que requisitou o elevador em 13 zepslon(s) com destino ao andar 4
+o usuario esperou: 2 zepslons
+No tempo 17 e no andar 4 saiu o usuario que requisitou o elevador em 13 zepslon(s) com destino ao andar 4
+o usuario ficou 2 zepslons dentro do elevador
+No tempo 17 e no andar 4 entrou o usuario que requisitou o elevador em 14 zepslon(s) com destino ao andar 1
+o usuario esperou: 3 zepslons
+No tempo 20 e no andar 1 saiu o usuario que requisitou o elevador em 14 zepslon(s) com destino ao andar 1
+o usuario ficou 3 zepslons dentro do elevador
+No tempo 23 e no andar 4 entrou o usuario que requisitou o elevador em 18 zepslon(s) com destino ao andar 0
+o usuario esperou: 5 zepslons
+No tempo 27 e no andar 0 saiu o usuario que requisitou o elevador em 18 zepslon(s) com destino ao andar 0
+o usuario ficou 4 zepslons dentro do elevador
+No tempo 27 e no andar 0 entrou o usuario que requisitou o elevador em 14 zepslon(s) com destino ao andar 3
+o usuario esperou: 13 zepslons
+No tempo 30 e no andar 3 saiu o usuario que requisitou o elevador em 14 zepslon(s) com destino ao andar 3
+o usuario ficou 3 zepslons dentro do elevador
+No tempo 32 e no andar 5 entrou o usuario que requisitou o elevador em 13 zepslon(s) com destino ao andar 0
+o usuario esperou: 19 zepslons
+No tempo 37 e no andar 0 saiu o usuario que requisitou o elevador em 13 zepslon(s) com destino ao andar 0
+o usuario ficou 5 zepslons dentro do elevador
